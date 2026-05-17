@@ -2,7 +2,7 @@
 
 A sleek, decoupled UI wrapper for the Gemini LLM ecosystem. Designed with clean architecture for fast, latency-optimized AI interactions. 
 
-I built this project for fun to explore modern frontend development. As a result, it may contain a few "catastrophic" bugs! I provide this code as-is without liability, but I will do my absolute best to release patches if you find something broken. To make debugging easier for me, please report issues with a clear title, a detailed description, and screenshots if possible.
+I built this project for fun to explore modern frontend development. As a result, it may contain a few minor bugs. I provide this code as-is without liability, but I will do my absolute best to release patches if you find something broken. To make debugging easier for me, please report issues with a clear title, a detailed description, and screenshots if possible.
 
 **Disclaimer:** *This toolkit is an independent frontend interface. The underlying AI processing is powered by the Google Gemini API. Users are responsible for providing their own API keys and adhering to Google's API Terms of Service.*
 
