@@ -21,3 +21,6 @@ Community feedback is vital to the evolution of this toolkit. If you encounter a
 
 * **To Report a Bug:** Open a detailed issue specifying the environment and steps to reproduce.
 * **To Propose Features:** Start a discussion or pull request detailing the structural improvements.
+
+
+<img width="1855" height="858" alt="image" src="https://github.com/user-attachments/assets/e74245e0-a1f0-4d45-908c-8db794640b16" />
