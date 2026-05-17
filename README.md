@@ -6,6 +6,8 @@ I built this project for fun to explore modern frontend development. As a result
 
 **Disclaimer:** *This toolkit is an independent frontend interface. The underlying AI processing is powered by the Google Gemini API. Users are responsible for providing their own API keys and adhering to Google's API Terms of Service.*
 
+Check the releases section to use the AI toolkit
+
 ---
 
 ## Open Source & Collaboration
