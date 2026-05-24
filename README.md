@@ -42,4 +42,4 @@ AI Suite currently features six dedicated processing environments: (Subject to C
 
 Open the releases section and click on the link from the latest release.
 
-**NOTE THAT UPDATES TO THIS WEB APP HAPPEN AUTOMATICALLY AND THE LINK STAYS THE SAME (EXCEPT IN FEW RARE CASES). SO FEEL FREE TO BOOKMARK THE LINK AND USE IT WITHOUT ANY CHANGES FOR EACH UPDATE**
+**Note on Deployment: Updates to this application are delivered automatically via continuous deployment. The access link remains persistent across versions (with very rare exceptions), so you are encouraged to bookmark the URL for immediate access to the latest features and patches without any manual changes.**
