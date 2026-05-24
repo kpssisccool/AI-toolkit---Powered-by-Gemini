@@ -40,6 +40,8 @@ AI Suite currently features six dedicated processing environments: (Subject to C
 
 ## ⚙️ Usage
 
-Open the releases section and click on the link from the latest release.
+Open the releases section and click on the link from the latest release or use the link below.
+
+https://gemini-ai-toolkit-996328923950.asia-southeast1.run.app/
 
 **Note on Deployment: Updates to this application are delivered automatically via continuous deployment. The access link remains persistent across versions (with very rare exceptions), so you are encouraged to bookmark the URL for immediate access to the latest features and patches without any manual changes.**
