@@ -1,51 +1,85 @@
 # AI Toolkit (Powered by Gemini)
 
-A sleek, decoupled UI wrapper for the Gemini LLM ecosystem. Designed with clean architecture for fast, latency-optimized AI interactions. 
+![License](https://img.shields.io/badge/license-Proprietary%20EULA-red.svg)
+![Platform](https://img.shields.io/badge/platform-GCP%20Cloud%20Run-orange)
+![Engine](https://img.shields.io/badge/engine-Google%20Gemini%20API-4285F4)
 
-I built this project for fun to explore modern frontend development. As a result, it may contain a few minor bugs. I provide this code as-is without liability, but I will do my absolute best to release patches if you find something broken. To make debugging easier for me, please report issues with a clear title, a detailed description, and screenshots if possible.
-
-**Disclaimer:** *This toolkit is an independent frontend interface. The underlying AI processing is powered by the Google Gemini API. Users are responsible for providing their own API keys and adhering to Google's API Terms of Service.*
-
-Check the releases section to use the AI toolkit
+A centralized web interface for interacting with Google's Gemini models. Built to give you quick, distraction-free access to focused AI workflows without setting up complex local environments or wrestling with messy interfaces.
 
 ---
 
-**AI Toolkit** is a centralized artificial intelligence toolkit powered by the Google Gemini API. It provides a modern, unified interface for executing a variety of natural language processing and generative tasks, ranging from code analysis to text summarization. 
+## ⚡ Try It Out
 
-The application is engineered for immediate usability via a zero-configuration deployment model, while retaining the flexibility required by power users to manage their own API routing and authentication.
+You can use the live web app directly without any setup:
 
-**This project is made with the assistance of AI**
+👉 **[Launch AI Toolkit](https://gemini-ai-toolkit-996328923950.asia-southeast1.run.app/)**
 
----
-
-## 🚀 Core Architecture
-
-* **Zero-Config Free Mode:** Operates securely out-of-the-box using a platform-allocated server engine via Google AI Studio. Users are not billed for developer credits under this default tier.
-* **Custom API Configuration:** Dedicated settings panel for users to input and route requests through their personal Gemini API keys.
-* **Google Profile Synchronization:** Integrated OAuth authentication allows users to securely sync and retrieve their past execution logs and prompt history.
-* **Modular Toolset:** An extensible sidebar architecture that cleanly separates distinct LLM system prompts into dedicated workspaces.
+> **How updates work:** The app is deployed continuously on Google Cloud Run. The link above stays fixed, so bookmarking it will always bring you to the latest build. Official release milestones are also tagged on the [Releases](../../releases) page.
 
 ---
 
-## 🧰 Integrated Modules
+## 🛠️ Key Features
 
-AI Suite currently features six dedicated processing environments: (Subject to Change)
-
-1. **Text Summarizer:** Condenses large text blocks or documents into concise, high-level overviews.
-2. **Code Explainer:** Analyzes code snippets and provides line-by-line breakdowns and logical summaries.
-3. **Creative Writer:** Generates structured stories, conceptual copy, and creative text based on user prompts.
-4. **Translator:** Provides high-fidelity, context-aware translations across supported languages.
-5. **Grammar Checker:** Audits text for typographical errors, structural grammar flaws, and sentence flow optimization.
-6. **Idea Brainstormer:** Generates conceptual lists, project outlines, and lateral thinking suggestions.
-
-7. Many more to be added in future updates, you can bookmark the link as further updates will automatically show up without any user intervention. Thank you for using this project.
+* **Zero-Config Free Tier:** Runs out-of-the-box using a default platform backend connected to Google AI Studio—no API key setup required to get started.
+* **Bring Your Own Key (BYOK):** Want higher rate limits or dedicated quota? Hop into settings and route requests directly through your personal Gemini API key.
+* **Google Account Sync:** Sign in via Google OAuth to keep your prompt history, execution logs, and session context synced across devices.
+* **Modular Workspaces:** A sidebar-based layout that breaks down different AI tasks into distinct, purpose-built workspaces.
 
 ---
 
-## ⚙️ Usage
+## 🧰 Built-in Tools
 
-Open the releases section and click on the link from the latest release or use the link below.
+The toolkit currently includes six specialized modules:
 
-https://gemini-ai-toolkit-996328923950.asia-southeast1.run.app/
+* **📝 Text Summarizer:** Turn long articles, documents, or raw text into clear, structured summaries.
+* **💻 Code Explainer:** Paste in code snippets to get line-by-line breakdowns and logic explanations.
+* **🎨 Creative Writer:** Draft blog outlines, stories, or creative copy with targeted prompts.
+* **🌐 Translator:** High-accuracy, context-aware translations across supported languages.
+* **✏️ Grammar Checker:** Catch typos, fix awkward phrasing, and clean up sentence structure.
+* **💡 Idea Brainstormer:** Generate project ideas, feature outlines, and concept lists.
 
-**Note on Deployment: Updates to this application are delivered automatically via continuous deployment. The access link remains persistent across versions (with very rare exceptions), so you are encouraged to bookmark the URL for immediate access to the latest features and patches without any manual changes.**
+*More utility modules are added periodically and rolled out automatically.*
+
+---
+
+## 🚀 How to Use
+
+1. Open the [Live Web App](https://gemini-ai-toolkit-996328923950.asia-southeast1.run.app/).
+2. Select the tool you need from the sidebar (e.g., *Code Explainer* or *Summarizer*).
+3. *(Optional)* Go to Settings if you want to enter your own Gemini API key.
+4. Input your text or code and run it.
+
+---
+
+## 🐛 Bug Reports & Feedback
+
+Since this project is actively developed, you might run into an occasional bug or edge case. If something breaks, opening an issue on GitHub is the best way to get it fixed.
+
+When reporting a bug, please include:
+* A brief summary of what happened.
+* Steps to reproduce the bug.
+* Your browser and device details.
+* A screenshot or console log error if available.
+
+👉 **[Open an Issue](../../issues/new)**
+
+---
+
+## 📜 Disclaimer & Legal
+
+* **Third-Party API:** AI Toolkit is an independent frontend interface. All AI processing is performed via the Google Gemini API.
+* **Terms Compliance:** If you use your own API key, you are responsible for following [Google's API Terms of Service](https://ai.google.dev/terms).
+
+---
+
+## 📄 License
+
+© 2026 **Palaparthi Sai Karthikeya** (`kpssisccool`). All rights reserved.
+
+This software is distributed under a proprietary **End-User License Agreement (EULA)**. It is licensed, not sold.
+
+* **Usage:** Personal, non-exclusive, non-transferable license to use the hosted/compiled software.
+* **Restrictions:** You may not reverse engineer, decompile, modify, create derivative works of, or redistribute this software.
+* **Jurisdiction:** Governed by the laws of India, with exclusive jurisdiction in the courts of **Hyderabad, Telangana, India**.
+
+For full terms and warranty disclaimers, refer to the [LICENSE](LICENSE) file in this repository.
