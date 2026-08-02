@@ -14,6 +14,8 @@ Check the releases section to use the AI toolkit
 
 The application is engineered for immediate usability via a zero-configuration deployment model, while retaining the flexibility required by power users to manage their own API routing and authentication.
 
+**This project is made with the assistance of AI**
+
 ---
 
 ## 🚀 Core Architecture
@@ -35,6 +37,8 @@ AI Suite currently features six dedicated processing environments: (Subject to C
 4. **Translator:** Provides high-fidelity, context-aware translations across supported languages.
 5. **Grammar Checker:** Audits text for typographical errors, structural grammar flaws, and sentence flow optimization.
 6. **Idea Brainstormer:** Generates conceptual lists, project outlines, and lateral thinking suggestions.
+
+7. Many more to be added in future updates, you can bookmark the link as further updates will automatically show up without any user intervention. Thank you for using this project.
 
 ---
 
