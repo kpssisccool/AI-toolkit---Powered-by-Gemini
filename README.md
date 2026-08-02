@@ -69,6 +69,7 @@ When reporting a bug, please include:
 
 * **Third-Party API:** AI Toolkit is an independent frontend interface. All AI processing is performed via the Google Gemini API.
 * **Terms Compliance:** If you use your own API key, you are responsible for following [Google's API Terms of Service](https://ai.google.dev/terms).
+* **This project is built with AI assistance**
 
 ---
 
