@@ -12,7 +12,7 @@ A centralized web interface for interacting with Google's Gemini models. Built t
 
 You can use the live web app directly without any setup:
 
-👉 **[Launch AI Toolkit](https://gemini-ai-toolkit-996328923950.asia-southeast1.run.app/)**
+👉 **[Launch AI Toolkit](https://aitoolkit.ai.studio/)**
 
 > **How updates work:** The app is deployed continuously on Google Cloud Run. The link above stays fixed, so bookmarking it will always bring you to the latest build. Official release milestones are also tagged on the [Releases](../../releases) page.
 
@@ -44,7 +44,7 @@ The toolkit currently includes six specialized modules:
 
 ## 🚀 How to Use
 
-1. Open the [Live Web App](https://gemini-ai-toolkit-996328923950.asia-southeast1.run.app/).
+1. Open the [Live Web App](https://aitoolkit.ai.studio/).
 2. Select the tool you need from the sidebar (e.g., *Code Explainer* or *Summarizer*).
 3. *(Optional)* Go to Settings if you want to enter your own Gemini API key.
 4. Input your text or code and run it.
