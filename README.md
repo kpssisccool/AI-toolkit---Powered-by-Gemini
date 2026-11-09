@@ -78,7 +78,7 @@ AI Toolkit is delivered as a hosted web application. This repository contains th
 
 AI Toolkit is an independent project, not an official Google product. It uses Google Gemini to generate responses. AI-generated content can be inaccurate or incomplete, so check important information before relying on it.
 
-## Licence
+## License
 
 AI Toolkit is proprietary software. Use is governed by the [End-User License Agreement](LICENSE), which does not permit modification, reverse engineering, or redistribution.
 
